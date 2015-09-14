@@ -1,0 +1,2 @@
+NavLights 1.8
+-aggiungere la configurabilità tramite seriale
