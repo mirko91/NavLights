@@ -1,0 +1,4 @@
+NavLights 1.7 - 14/09/2015
+-tre modalità selezionabili: spento, navigazione, navigazione + atterraggio
+-4 output indipendenti
+-configurazione tramite il file config.h
